@@ -1,0 +1,3 @@
+[submodule "modules/foundation"]
+	path = modules/foundation
+	url = https://github.com/BuckeyeSoftware/foundation
